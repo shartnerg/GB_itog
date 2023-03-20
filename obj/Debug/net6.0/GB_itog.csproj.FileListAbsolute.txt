@@ -1,0 +1,15 @@
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.csproj.AssemblyReference.cache
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.AssemblyInfoInputs.cache
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.AssemblyInfo.cs
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.csproj.CoreCompileInputs.cache
+C:\Users\amerk\Desktop\GB_george\GB_itog\bin\Debug\net6.0\GB_itog.exe
+C:\Users\amerk\Desktop\GB_george\GB_itog\bin\Debug\net6.0\GB_itog.deps.json
+C:\Users\amerk\Desktop\GB_george\GB_itog\bin\Debug\net6.0\GB_itog.runtimeconfig.json
+C:\Users\amerk\Desktop\GB_george\GB_itog\bin\Debug\net6.0\GB_itog.dll
+C:\Users\amerk\Desktop\GB_george\GB_itog\bin\Debug\net6.0\GB_itog.pdb
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.dll
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\refint\GB_itog.dll
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.pdb
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\GB_itog.genruntimeconfig.cache
+C:\Users\amerk\Desktop\GB_george\GB_itog\obj\Debug\net6.0\ref\GB_itog.dll
